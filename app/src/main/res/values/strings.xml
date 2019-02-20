@@ -1,13 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
     <string-array name="mangListView">
-<<<<<<< HEAD
         <item>Nguyen Duc Hung</item>
         <item>Dang Ngoc Hai</item>
-=======
-        <item>Dang Ngoc Hai</item>
-        <item>Nguyen Duc Hung</item>
->>>>>>> 3990d130ef18bed74add184858340a09e3394dad
         <item>Tran Duc Quang Khanh</item>
     </string-array>
 </resources>
