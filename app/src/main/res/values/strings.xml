@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string-array name="mangListView">
+        <item>Nguyen Duc Hung</item>
+        <item>Dang Ngoc Hai</item>
+        <item>Tran Duc Quang Khanh</item>
+    </string-array>
 </resources>

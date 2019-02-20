@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Team1_ListView"
+        android:text="TeamPro_ListView"
         android:gravity="center"
         android:textStyle="bold"
         />
@@ -37,7 +37,8 @@
         <Button
             android:layout_width="100dp"
             android:layout_height="wrap_content"
-            android:text="Sua" />
+            android:text="Sua"
+            android:onClick="Sua"/>
     </LinearLayout>
 
     <ListView
