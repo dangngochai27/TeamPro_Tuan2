@@ -27,6 +27,7 @@
             android:layout_width="142dp"
             android:layout_height="wrap_content"
             android:text="Them"
+            android:onClick="Them"
             />
 
         <Button
